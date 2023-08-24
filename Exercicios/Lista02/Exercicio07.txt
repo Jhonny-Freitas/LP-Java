@@ -1,0 +1,9 @@
+//Jhonny Miguel de Freitas
+a. String
+b. byte, short, int
+c. double
+d. boolean
+e. short, int
+f. float
+g. char
+h. long
